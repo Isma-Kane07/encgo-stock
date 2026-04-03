@@ -15,8 +15,6 @@ import {
     LogOut,
     Menu,
     X,
-    TrendingUp,
-    TrendingDown,
     Eye
 } from 'lucide-react';
 import { motion, AnimatePresence } from 'framer-motion';
