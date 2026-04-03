@@ -49,7 +49,7 @@ export default function Login() {
               <input
                 type="email"
                 className="w-full pl-10 pr-4 py-2 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-encgo-red focus:border-transparent transition"
-                placeholder="admin@encgo.ma"
+                placeholder="exemple@encgo.ma"
                 value={email}
                 onChange={(e) => setEmail(e.target.value)}
                 required
@@ -79,8 +79,8 @@ export default function Login() {
         </form>
 
         <div className="mt-6 text-center text-sm text-gray-500 border-t pt-4">
-          <p>📧 admin@encgo.ma / admin123</p>
-          <p>📧 user@encgo.ma / user123</p>
+          <p>R : admin@encgo.ma / admin123</p>
+          <p>F : user@encgo.ma / user123</p>
         </div>
       </div>
 
