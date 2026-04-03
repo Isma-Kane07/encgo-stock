@@ -12,9 +12,7 @@ import {
   Search, 
   Eye, 
   Trash2,
-  ShoppingBag,
-  History,
-  Home
+  History
 } from 'lucide-react';
 import { motion, AnimatePresence } from 'framer-motion';
 
