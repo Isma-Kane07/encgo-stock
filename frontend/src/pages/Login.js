@@ -85,7 +85,7 @@ export default function Login() {
       </div>
 
       {/* Copyright en bas de page */}
-      <div className="absolute bottom-4 left-0 right-0 text-center text-white/40 text-xs">
+      <div className="absolute bottom-4 left-0 right-0 text-center text-white/60 text-xs">
         © ENCGO {new Date().getFullYear()} - Tous droits réservés.
       </div>
     </div>
